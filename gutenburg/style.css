@@ -1,0 +1,46 @@
+body {
+    background: #faebd0;
+}
+
+h1 {
+    color: rgb(69, 69, 245);
+    font-family: cursive;
+}
+
+h2 {
+    color: #5c90d4;
+    font-family: monospace;
+}
+
+h3 {
+    color: #3d759b;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2c4c61;
+}
+
+pre {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
