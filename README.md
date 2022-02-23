@@ -21,4 +21,6 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Part I: Set background color to #faebd0 which is easy to read and softer on eyes. Centered cover images for all 3 projects. Different colors and different font for different headers (h1, h2 and h3).
+
 
