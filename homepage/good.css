@@ -1,0 +1,49 @@
+html {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: antiquewhite;
+}
+
+img {
+    padding: 2px;
+    display: block;
+    width: 25%;
+    border-radius: 5%;
+    margin: auto;
+}
+
+.sidebar {
+    overflow: hidden;
+    width: auto;
+}
+
+.sidebar a{
+    padding: 1%;
+    float: left;
+    display: block;
+    text-align: center;
+    font-size: large;
+    color: darkslategrey;
+}
+
+.sidebar a.right {
+    float: right;
+}
+
+.personal-info {
+    display: inline-block;
+    text-align: center;
+}
+
+.intro {
+    float: left;
+    margin-top: 1%;
+    width: 35%;
+    padding: 20px;
+}
+
+.Experience {
+    float: right;
+    margin-top: 2%;
+    width: 40%;
+    padding: 10px;
+}
